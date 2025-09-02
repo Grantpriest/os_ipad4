@@ -1,0 +1,77 @@
+
+body, html {
+  margin: 0;
+  background: #111;
+  color: white;
+  font-family: sans-serif;
+  overflow: hidden;
+}
+
+.app {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Make the carousel use full width */
+.swiper-container {
+  width: 100vw;  /* full viewport width */
+  height: 100%;  /* allow it to fill available height */
+  padding: 2rem 0;
+  box-sizing: border-box;
+}
+
+/* Responsive image sizing */
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  width: 100%;
+  max-width: 90%; /* Limit size so 4 can fit nicely */
+  height: auto;
+  border-radius: 12px;
+  transition: transform 0.3s;
+  object-fit: contain;
+}
+
+.album-slide {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.track-info {
+  margin-top: 10px;
+  color: white;
+  font-size: 14px;
+}
+
+.track-title {
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+
+.track-artist {
+  font-style: italic;
+  margin-bottom: 8px;
+}
+
+.track-progress {
+  width: 100%;
+  max-width: 160px;
+  height: 6px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  height: 100%;
+  background: #fff;
+  transition: width 0.2s;
+}
