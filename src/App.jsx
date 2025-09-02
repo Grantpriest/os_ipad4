@@ -110,8 +110,8 @@ const handleClick = (index, album) => {
           <>
 
             
-            <div className="track-title">{albums[currentTrack].title}</div>
-            <div className="track-album">{albums[currentTrack].album}</div>
+            <div className="track-title">{albums[currentTrack].track}</div>
+            <div className="track-album">{albums[currentTrack].title}</div>
             <div className="track-artist">{albums[currentTrack].artist}</div>
                       <div className="track-timer">
               <span className="timer">{currentTime}</span>
