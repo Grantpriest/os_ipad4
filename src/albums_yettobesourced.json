@@ -1,15 +1,5 @@
 [
   {
-    "image": "A_130.jpg",
-    "title": "Exciting Brass",
-    "track": "",
-    "artist": "Nick Nicholson & The Neketini Brass",
-    "year": "1968",
-    "label": "His Master's Voice (N.Z.) Ltd.",
-    "designer": "",
-    "filename": ""
-  },
-  {
     "image": "A_150.jpg",
     "title": "nan",
     "track": "",
@@ -29,56 +19,7 @@
     "designer": "David A. Cowe",
     "filename": ""
   },
-  {
-    "image": "A_104.jpg",
-    "title": "New Zealand Trading Company",
-    "track": "",
-    "artist": "New Zealand Trading Company",
-    "year": "1970",
-    "label": "Memphis",
-    "designer": "",
-    "filename": ""
-  },
-  {
-    "image": "A_143.jpg",
-    "title": "Jezebel",
-    "track": "",
-    "artist": "Jon Stevens",
-    "year": "1980",
-    "label": "CBS Records",
-    "designer": "Cover Photography: Des Williams, Design and Art Direction: Peter Burt / Dale Wrightson",
-    "filename": ""
-  },
-  {
-    "image": "A_142.jpg",
-    "title": "Waretini",
-    "track": "",
-    "artist": "Deane Waretini",
-    "year": "1981",
-    "label": "CBS Records",
-    "designer": "Unknown",
-    "filename": ""
-  },
-  {
-    "image": "A_012.jpg",
-    "title": "Long Ago",
-    "track": "",
-    "artist": "Herbs",
-    "year": "1981",
-    "label": "Warrior Records",
-    "designer": "Richard Collings (Design), Norman Te Whata & Emily Karaka (Painting)",
-    "filename": ""
-  },
-  {
-    "image": "A_018.jpg",
-    "title": "Whats' Be Happen?",
-    "track": "",
-    "artist": "Herbs",
-    "year": "1981",
-    "label": "Warrior Records",
-    "designer": "Cover photo: Bastion Point Eviction Day, May 25th 1978, when 222 land protesters were arrested. Cover design: Herbs management",
-    "filename": ""
-  },
+
   {
     "image": "A_014.jpg",
     "title": "Live in New Zealand",
@@ -179,16 +120,7 @@
     "designer": "Joe Wylie",
     "filename": ""
   },
-  {
-    "image": "A_100.jpg",
-    "title": "E Tu",
-    "track": "",
-    "artist": "Upper Hutt Posse",
-    "year": "1988",
-    "label": "Jayrem Records",
-    "designer": "Photography by Kenneth Dowie",
-    "filename": ""
-  },
+
   {
     "image": "A_153.jpg",
     "title": "In Concert",
